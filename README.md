@@ -28,15 +28,15 @@ This project aims to:
 ##  Features
 
 *  Interactive multi-step user interface
-*  
+  
 *  Subject-wise performance prediction
-*  
+  
 *  Smart logic-based evaluation (not random)
-*  
+   
 *  Balanced scoring (study + attendance + sleep)
-*  
+  
 *  Personalized improvement suggestions
-*  
+   
 *  Restart functionality
 
 ---
